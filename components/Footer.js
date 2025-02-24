@@ -27,17 +27,21 @@ const Footer = () => {
       >
         增加网页
       </a>
-    </div>
-
-    
-    <div className='text-xs whitespace-nowrap text-purple-900 dark:text-rose-200 py-4'>
-      <a 
-        href='https://www.notion.so/1a0ee4c653c0804488a1d089bd56bcf9?v=1a0ee4c653c081359cd6000c42f9038d' 
+                <a 
+        href='https://github.com/hxlong2024/IndWebIndex-1/blob/main/README.md' 
         target='_blank' 
         rel='noopener noreferrer' 
         className='block mb-2 underline'
       >
-        增加网页
+        更新数据
+      </a>
+                          <a 
+        href='https://vercel.com/hxlongs-projects/notion-next-1-hk16/deployments?filterBranch=main' 
+        target='_blank' 
+        rel='noopener noreferrer' 
+        className='block mb-2 underline'
+      >
+        查看部署
       </a>
       <p className='mb-1'>
         {visitCount !== null ? `访问量：${visitCount}` : '访问量：加载中...'}
