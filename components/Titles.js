@@ -12,18 +12,6 @@ const Titles = ({ title = "Individual Web Index", link = "https://www.900337.xyz
       </a>
     </h1>
   </div>
-
-    <div className='text-xs whitespace-nowrap text-purple-900 dark:text-rose-200 py-4'>
-      <a 
-        href='https://github.com/hxlong2024/IndWebIndex-1/blob/main/README.md' 
-        target='_blank' 
-        rel='noopener noreferrer' 
-        className='block mb-2 underline'
-      >
-        更新数据
-      </a>
-    </div>
-
 );
 
 export default Titles;
