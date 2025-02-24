@@ -1,5 +1,5 @@
 //components/Titles.js
-const Titles = ({ title = "Individual Web Index", link = "https://www.341623.xyz/" }) => (
+const Titles = ({ title = "Individual Web Index", link = "https://www.900514.xyz/" }) => (
   <div>
     <h1 className="text-[2rem] my-3 text-center font-normal title-1">
       <a
