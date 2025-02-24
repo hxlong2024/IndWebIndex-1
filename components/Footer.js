@@ -18,7 +18,6 @@ const Footer = () => {
   }, []);
 
   return (
-    <div className='text-xs whitespace-nowrap text-purple-900 dark:text-rose-200 py-4'>
 <div class="text-xs whitespace-nowrap text-purple-900 dark:text-rose-200 py-4">
     <a href="https://www.notion.so/1a4ee4c653c080beb580f0fobb905be3?v=1a4ee4c653c08147b7b0000c9784bf6b" target="_blank" rel="noopener noreferrer" class="block mb-2 underline">
         增加网页
