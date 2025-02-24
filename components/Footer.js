@@ -27,6 +27,14 @@ const Footer = () => {
       >
         增加网页
       </a>
+      <a 
+        href='https://github.com/hxlong2024/IndWebIndex-1/blob/main/README.md' 
+        target='_blank' 
+        rel='noopener noreferrer' 
+        className='block mb-2 underline'
+      >
+        获取更新
+      </a>
       <p className='mb-1'>
         {visitCount !== null ? `访问量：${visitCount}` : '访问量：加载中...'}
       </p>
