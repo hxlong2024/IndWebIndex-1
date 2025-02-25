@@ -20,7 +20,7 @@ const Footer = () => {
   return (
     <div className='text-xs whitespace-nowrap text-purple-900 dark:text-rose-200 py-4'>
       <a 
-        href='https://www.notion.so/1a0ee4c653c0804488a1d089bd56bcf9?v=1a0ee4c653c081359cd6000c42f9038d' 
+        href='https://www.notion.so/1a4ee4c653c080beb580f0f0bb905be3?v=1a4ee4c653c08147b7b0000c9784bf6b' 
         target='_blank' 
         rel='noopener noreferrer' 
         className='block mb-2 underline'
